@@ -21,6 +21,8 @@ public class Matricial {
         int nois = pirmo*21;
         
         System.out.println("vaisifudÊ");
+        System.out.println("valeu, truta");
+        System.out.println("valeu demais, é nóis");
         
         System.out.println("check out this cool number: " + nois);
         System.out.println("");
