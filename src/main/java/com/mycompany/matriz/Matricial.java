@@ -20,6 +20,8 @@ public class Matricial {
         int pirmo = 3;
         int nois = pirmo*21;
         
+        System.out.println("vaisifudÊ");
+        
         System.out.println("check out this cool number: " + nois);
         System.out.println("");
         
