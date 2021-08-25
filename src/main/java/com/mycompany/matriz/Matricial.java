@@ -17,7 +17,12 @@ public class Matricial {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-        System.out.println("Chega aí, ladrão, vamo calcular umas matris ai rsrs");
+        int pirmo = 3;
+        int nois = pirmo*21;
+        
+        System.out.println("check out this cool number: " + nois);
+        System.out.println("");
+        
         
         System.out.println("A rows:");
         int row = sc.nextInt();
