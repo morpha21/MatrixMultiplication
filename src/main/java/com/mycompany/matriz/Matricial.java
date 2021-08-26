@@ -17,8 +17,6 @@ public class Matricial {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-        System.out.println("Chega aí, ladrão, vamo calcular umas matris ai rsrs");
-        
         System.out.println("A rows:");
         int row = sc.nextInt();
         System.out.println("A columns:");
